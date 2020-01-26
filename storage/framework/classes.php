@@ -13,4 +13,10 @@
   'RainLab\\Blog\\Components\\Categories' => 'plugins\\rainlab\\blog\\components\\Categories.php',
   'RainLab\\Blog\\Components\\RssFeed' => 'plugins\\rainlab\\blog\\components\\RssFeed.php',
   'RainLab\\Blog\\Models\\Settings' => 'plugins\\rainlab\\blog\\models\\Settings.php',
+  'backend\\Controllers\\media' => 'modules\\backend\\controllers\\media.php',
+  'rainlab\\blog\\Controllers\\posts' => 'plugins\\rainlab\\blog\\controllers\\posts.php',
+  'RainLab\\Blog\\Models\\PostImport' => 'plugins\\rainlab\\blog\\models\\PostImport.php',
+  'RainLab\\Blog\\Models\\PostExport' => 'plugins\\rainlab\\blog\\models\\PostExport.php',
+  'RainLab\\Blog\\FormWidgets\\BlogMarkdown' => 'plugins\\rainlab\\blog\\formwidgets\\BlogMarkdown.php',
+  'cms\\Controllers\\themes' => 'modules\\cms\\controllers\\themes.php',
 );

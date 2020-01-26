@@ -1,0 +1,15 @@
+name: 'Custom theme'
+description: 'Basic bootswatch theme'
+author: ''
+homepage: ''
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site name
+      comment: The global website name
+      default: cms
+    site_description:
+        label: Site description
+        comment: The global website description
+        default: Test
